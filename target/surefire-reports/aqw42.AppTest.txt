@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: aqw42.AppTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.142 s <<< FAILURE! - in aqw42.AppTest
-shouldAnswerWithTrue(aqw42.AppTest)  Time elapsed: 0.027 s  <<< FAILURE!
-org.junit.ComparisonFailure: The message is not right expected:<Hello [you] !> but was:<Hello [World] !>
-	at aqw42.AppTest.shouldAnswerWithTrue(AppTest.java:20)
-
